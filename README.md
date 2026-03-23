@@ -78,7 +78,7 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🎙️ **Audio Intelligence Agent** | ASR pipeline that converts audio to text and generates structured summaries using LLMs | Python, Whisper, LangChain, OpenAI |
-| 📊 **[Your DS Project]** | *(Add your upcoming project here)* | Python, Scikit-learn, Streamlit |
+| 📊 **customer-churn-predictor** | *An end-to-end Machine Learning application that predicts customer churn for telecom companies using a Random Forest classifier — with an interactive live prediction interface.* | Python, Scikit-learn, Streamlit |
 
 ---
 
