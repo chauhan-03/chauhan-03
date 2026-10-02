@@ -2,12 +2,12 @@
 
 <h3 align="center">I am a</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=560&lines=Applied+AI+Engineer+%40+Samsung+R%26D;Gen+AI+%26+LLM+Systems+Builder;ML+Pipelines+at+2+TB%2Fday;Product+%26+Game+Analytics;Python+%C2%B7+SQL+%C2%B7+AWS+%C2%B7+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=560&lines=MBA+Business+Analytics+%40+BITS+Pilani;Ex-AI+Engineer+%40+Samsung+R%26D;Product+%26+Player+Insights;Game+%26+Product+Analytics;SQL+%C2%B7+Power+BI+%C2%B7+Python+%C2%B7+Gen+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  AI engineer with 2+ years shipping production ML and Gen AI systems on Samsung TVs used by millions.
-  I build the whole path from raw data to a decision: pipelines, models, LLM agents with guardrails, and the analytics that tell a product team what to build next.
+  MBA (Business Analytics) student at BITS Pilani and former Samsung R&D engineer with 3+ years of turning data into product decisions:
+  KPIs, dashboards, requirements and Python AI tools for global product teams. Led a 50+ engineer workstream in an INR 1B+ initiative reaching 150M+ users.
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
   <a href="https://www.linkedin.com/in/jatin-chauhan-a07153171/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jc9910373088@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:h20250844@pilani.bits-pilani.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
   <a href="https://chauhan-03.github.io/game-analytics/">
     <img src="https://img.shields.io/badge/Live_Dashboard-FF4747?style=for-the-badge&logo=googleanalytics&logoColor=white" />
@@ -29,24 +29,26 @@
 
 ## ⚡ A Quick Introduction
 
-- 🔭 **Software Engineer, Samsung R&D** (Jan 2024 – now): voice & audio intelligence for MS Copilot on Samsung TVs, live translation (ASR → NMT → TTS) and Vision AI
+- 🎓 **MBA, Business Analytics, BITS Pilani** (2026 – 2028)
+- 💼 **AI Engineer and Automation Lead, Samsung R&D Institute** (Jan 2024 – Jul 2026), after an internship converted via PPO
 - 🎮 **Latest:** [Game Analytics](https://github.com/chauhan-03/game-analytics), from 1.4M players' data to product decisions ([live dashboard](https://chauhan-03.github.io/game-analytics/))
-- 🤖 Hands-on with **LLMs, LangChain, RAG, FAISS, agents & guardrails, ASR pipelines**
-- 📊 Comfortable across **SQL, A/B testing, Power BI and product analytics**
-- ☁️ Production experience with **AWS (S3, SQS, Lambda, Athena, EC2)**
-- 🎯 Open to **AI/ML engineering, data science and product analytics roles**
-- 📍 Based in **New Delhi, India**
+- 📊 **Analytics:** SQL, Excel, Power BI, Python, A/B testing, funnel and retention analysis
+- 🤖 **AI:** LLM tools, RAG, LangChain, LangGraph, guardrails, scikit-learn
+- 📱 Growing a **30K+ monthly-view** tech-education audience on Instagram
+- 🎯 Open to **product management, product analytics and strategy roles**, especially in games
+- 📍 Based in **Delhi NCR, India**
 
 ---
 
-## 🏢 Impact at Samsung
+## 🏢 Impact at Samsung R&D
 
 | | Result |
 |---|---|
-| 🎙️ **MS Copilot voice & audio** | Cut false-positive voice triggers by **93.3%**; shipped **10–15** production features |
-| 🌐 **AI Interpreter (Live Translate)** | Improved translation consistency by **20%** across 5+ language pairs (WER, CER, BLEU) |
-| 👁️ **Vision AI** | Raised model accuracy from **85% → 92%**; AWS pipelines processing **~2 TB/day**; **50%** less manual effort |
-| ⚙️ **Test automation** | Automated **70%** of regression workflows, saving **30+ hours** per release |
+| 📈 **KPIs & dashboards** | Defined KPIs and built an analytics dashboard for **14 global releases**, one source of truth with **99%** uptime |
+| ⚙️ **Reporting automation** | Flask tool turning **250+ datasets** into 70+ Excel reports, turnaround cut **88%**, adopted by 12+ senior leaders |
+| 🤖 **AI tools** | Launched **4+ Python AI tools** from user research to rollout, cutting execution time **12%** across 10 releases |
+| 🧭 **Product & roadmap** | Ran discovery for 4 product lines; prioritized 12 GenAI domains by ROI and effort with 12+ senior stakeholders |
+| 👥 **Leadership** | Led a **50+ engineer** workstream in an **INR 1B+** initiative serving **150M+** users |
 
 ---
 
@@ -100,9 +102,9 @@
 | Project | What it does | Tech Stack |
 |---|---|---|
 | 🎮 **[Game Analytics](https://github.com/chauhan-03/game-analytics)** · [live](https://chauhan-03.github.io/game-analytics/) | Player journey analysis of **1.4M players**: found **76%** never return after day one, ran A/B tests with significance testing, mined **25,719** app-store reviews, and turned it into a feature spec, campaign brief and go-to-market plan. Interactive dashboard, Power BI project, **530 tests** | Python, pandas, SciPy, SQL, Power BI (DAX) |
-| 🗄️ **[AskDB](https://github.com/chauhan-03/askdb-sql-agent)** | Text-to-SQL agent with a validation cascade: templates before the model, static SQL checks before execution, self-correction. **87%** on a 38-question benchmark, refuses **8/8** unanswerable questions | Python, LLMs, SQLite |
+| 🗄️ **[Ask DB](https://github.com/chauhan-03/askdb-sql-agent)** | Cost-aware natural-language SQL agent: **58%** lower LLM cost, 16% of questions answered with no model call, **87%** accuracy and **100%** correct refusals on unanswerable questions | Python, LangChain, SQLite, Groq |
 | 🛡️ **[LLM Guardrails](https://github.com/chauhan-03/pulse-services-guardrails)** | Healthcare chatbot with **9 guardrail layers**: prompt-injection detection, PII redaction, topic filter, human approval, LLM safety judge, disclaimers | LangChain, Groq, FastAPI, PyTest |
-| 🛒 **[ReorderIQ](https://github.com/chauhan-03/Stock-Pilot-Data-Processing-and-Intelligence)** | Grocery demand forecasting from **3.42M** Instacart orders: store clustering, safety stock, early-warning alerts, stock-transfer suggestions | Python, pandas, scikit-learn |
+| 🛒 **[Stock Pilot](https://github.com/chauhan-03/Stock-Pilot-Data-Processing-and-Intelligence)** | Demand forecasting from **3.42M** orders: 18 store clusters, gradient-boosted trees (**0.83 AUC**), safety stock cut **30.1%**, 4.9% of positions flagged at stockout risk | Python, pandas, scikit-learn, SciPy |
 | 📉 **[Churn Predictor](https://github.com/chauhan-03/customer-churn-predictor)** | Telecom churn model with evaluation charts and a live prediction app | scikit-learn, Streamlit |
 | 📄 **[Doc Q&A Bot](https://github.com/chauhan-03/project1-doc-qa)** | Ask questions about any PDF with retrieval-augmented generation | LangChain, FAISS, HuggingFace, Groq |
 | 🏏 **[IPL Analysis](https://github.com/chauhan-03/project2-ipl-analysis)** | Interactive dashboard on 15+ seasons of IPL matches: teams, venues, toss decisions | pandas, Seaborn, Streamlit |
@@ -111,11 +113,12 @@
 
 ## 🏆 Achievements
 
-- 🥇 **Spot Award Winner** — Vision AI Systems, Samsung
-- 🎓 **Samsung ML Certification** — Top 1%
-- 🤖 **Level-3 Certified** — Generative AI Tool Development
-- ⭐ **Consecutive 2 years** — Exceeds Most annual rating
-- 📚 **B.Tech CGPA 9.1/10** — Top 1%, MSIT Delhi
+- 🥇 **1st of 197 teams** — Keep It Alive case competition, BITS Pilani
+- 🏁 **National finalist** — ProdPreneur product strategy competition (9th of 750 teams)
+- 🏅 **Samsung Spot Award** — 1,200 automation hours delivered in a quarter
+- ⭐ **4/5 annual rating** for 2 consecutive years, Top 10 of the team
+- 🎓 **Certifications** — Samsung Machine Learning Certified Engineer, Samsung GenAI Level 2, BCG Strategy Consulting Job Simulation
+- 📚 **B.Tech, ECE** — Maharaja Surajmal Institute of Technology, 91%
 
 ---
 
