@@ -24,6 +24,7 @@
 
 - 🔭 Currently working on **Gen AI tooling & NLP systems at Samsung R&D**
 - 🌱 Building deeper expertise in **Machine Learning & Data Science**
+- 🎮 Latest project: **[Game Analytics](https://github.com/chauhan-03/game-analytics)**, from player data to product decisions ([live dashboard](https://chauhan-03.github.io/game-analytics/))
 - 🤖 Hands-on with **LLMs, LangChain, RAG, FAISS, ASR Pipelines**
 - ☁️ Experienced with **AWS (S3, SQS, Lambda, Athena)**
 - 💬 Ask me about **Python, NLP, Automation, Gen AI**
@@ -49,6 +50,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools & Testing:**
 
@@ -77,6 +80,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| 🎮 **[Game Analytics](https://github.com/chauhan-03/game-analytics)** · [live dashboard](https://chauhan-03.github.io/game-analytics/) | Player journey analysis of 1.4M players across onboarding, retention, engagement and monetization. A/B tests with significance testing, review mining of 25,719 app-store reviews, product docs (feature spec, campaign brief, go-to-market), a Power BI project and 530 automated tests | Python, pandas, SciPy, SQL, Power BI (DAX) |
 | 🎙️ **Audio Intelligence Agent** | ASR pipeline that converts audio to text and generates structured summaries using LLMs | Python, Whisper, LangChain, OpenAI |
 | 📊 **customer-churn-predictor** | *An end-to-end Machine Learning application that predicts customer churn for telecom companies using a Random Forest classifier — with an interactive live prediction interface.* | Python, Scikit-learn, Streamlit |
 
