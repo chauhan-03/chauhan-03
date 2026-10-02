@@ -2,19 +2,26 @@
 
 <h3 align="center">I am a</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=ML+%26+AI+Engineer+%40+Samsung+R%26D;NLP+%26+Gen+AI+Enthusiast;Python+Developer;Automation+Engineer;Aspiring+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=560&lines=Applied+AI+Engineer+%40+Samsung+R%26D;Gen+AI+%26+LLM+Systems+Builder;ML+Pipelines+at+2+TB%2Fday;Product+%26+Game+Analytics;Python+%C2%B7+SQL+%C2%B7+AWS+%C2%B7+Power+BI" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Engineer at Samsung R&D with 2+ years building production AI systems for Tizen OS — a platform used by millions globally. Passionate about NLP, Gen AI, and turning raw data into intelligent products.
+  AI engineer with 2+ years shipping production ML and Gen AI systems on Samsung TVs used by millions.
+  I build the whole path from raw data to a decision: pipelines, models, LLM agents with guardrails, and the analytics that tell a product team what to build next.
 </p>
 
 <p align="center">
+  <a href="https://chauhan-03.github.io/Resume.html">
+    <img src="https://img.shields.io/badge/Resume-00B4D8?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/jatin-chauhan-a07153171/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jc9910373088@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://chauhan-03.github.io/game-analytics/">
+    <img src="https://img.shields.io/badge/Live_Dashboard-FF4747?style=for-the-badge&logo=googleanalytics&logoColor=white" />
   </a>
 </p>
 
@@ -22,14 +29,24 @@
 
 ## ⚡ A Quick Introduction
 
-- 🔭 Currently working on **Gen AI tooling & NLP systems at Samsung R&D**
-- 🌱 Building deeper expertise in **Machine Learning & Data Science**
-- 🎮 Latest project: **[Game Analytics](https://github.com/chauhan-03/game-analytics)**, from player data to product decisions ([live dashboard](https://chauhan-03.github.io/game-analytics/))
-- 🤖 Hands-on with **LLMs, LangChain, RAG, FAISS, ASR Pipelines**
-- ☁️ Experienced with **AWS (S3, SQS, Lambda, Athena)**
-- 💬 Ask me about **Python, NLP, Automation, Gen AI**
-- 🎯 Open to **DS & ML Engineer roles**
+- 🔭 **Software Engineer, Samsung R&D** (Jan 2024 – now): voice & audio intelligence for MS Copilot on Samsung TVs, live translation (ASR → NMT → TTS) and Vision AI
+- 🎮 **Latest:** [Game Analytics](https://github.com/chauhan-03/game-analytics), from 1.4M players' data to product decisions ([live dashboard](https://chauhan-03.github.io/game-analytics/))
+- 🤖 Hands-on with **LLMs, LangChain, RAG, FAISS, agents & guardrails, ASR pipelines**
+- 📊 Comfortable across **SQL, A/B testing, Power BI and product analytics**
+- ☁️ Production experience with **AWS (S3, SQS, Lambda, Athena, EC2)**
+- 🎯 Open to **AI/ML engineering, data science and product analytics roles**
 - 📍 Based in **New Delhi, India**
+
+---
+
+## 🏢 Impact at Samsung
+
+| | Result |
+|---|---|
+| 🎙️ **MS Copilot voice & audio** | Cut false-positive voice triggers by **93.3%**; shipped **10–15** production features |
+| 🌐 **AI Interpreter (Live Translate)** | Improved translation consistency by **20%** across 5+ language pairs (WER, CER, BLEU) |
+| 👁️ **Vision AI** | Raised model accuracy from **85% → 92%**; AWS pipelines processing **~2 TB/day**; **50%** less manual effort |
+| ⚙️ **Test automation** | Automated **70%** of regression workflows, saving **30+ hours** per release |
 
 ---
 
@@ -48,17 +65,19 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMTIiIHdpZHRoPSI1IiBoZWlnaHQ9IjEwIiByeD0iMSIgZmlsbD0iIzAwMCIvPjxyZWN0IHg9IjEwIiB5PSI3IiB3aWR0aD0iNSIgaGVpZ2h0PSIxNSIgcng9IjEiIGZpbGw9IiMwMDAiLz48cmVjdCB4PSIxNyIgeT0iMiIgd2lkdGg9IjUiIGhlaWdodD0iMjAiIHJ4PSIxIiBmaWxsPSIjMDAwIi8%2BPC9zdmc%2B)
 
-**Tools & Testing:**
+**Apps, Tools & Testing:**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -78,11 +97,15 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | What it does | Tech Stack |
 |---|---|---|
-| 🎮 **[Game Analytics](https://github.com/chauhan-03/game-analytics)** · [live dashboard](https://chauhan-03.github.io/game-analytics/) | Player journey analysis of 1.4M players across onboarding, retention, engagement and monetization. A/B tests with significance testing, review mining of 25,719 app-store reviews, product docs (feature spec, campaign brief, go-to-market), a Power BI project and 530 automated tests | Python, pandas, SciPy, SQL, Power BI (DAX) |
-| 🎙️ **Audio Intelligence Agent** | ASR pipeline that converts audio to text and generates structured summaries using LLMs | Python, Whisper, LangChain, OpenAI |
-| 📊 **customer-churn-predictor** | *An end-to-end Machine Learning application that predicts customer churn for telecom companies using a Random Forest classifier — with an interactive live prediction interface.* | Python, Scikit-learn, Streamlit |
+| 🎮 **[Game Analytics](https://github.com/chauhan-03/game-analytics)** · [live](https://chauhan-03.github.io/game-analytics/) | Player journey analysis of **1.4M players**: found **76%** never return after day one, ran A/B tests with significance testing, mined **25,719** app-store reviews, and turned it into a feature spec, campaign brief and go-to-market plan. Interactive dashboard, Power BI project, **530 tests** | Python, pandas, SciPy, SQL, Power BI (DAX) |
+| 🗄️ **[AskDB](https://github.com/chauhan-03/askdb-sql-agent)** | Text-to-SQL agent with a validation cascade: templates before the model, static SQL checks before execution, self-correction. **87%** on a 38-question benchmark, refuses **8/8** unanswerable questions | Python, LLMs, SQLite |
+| 🛡️ **[LLM Guardrails](https://github.com/chauhan-03/pulse-services-guardrails)** | Healthcare chatbot with **9 guardrail layers**: prompt-injection detection, PII redaction, topic filter, human approval, LLM safety judge, disclaimers | LangChain, Groq, FastAPI, PyTest |
+| 🛒 **[ReorderIQ](https://github.com/chauhan-03/Stock-Pilot-Data-Processing-and-Intelligence)** | Grocery demand forecasting from **3.42M** Instacart orders: store clustering, safety stock, early-warning alerts, stock-transfer suggestions | Python, pandas, scikit-learn |
+| 📉 **[Churn Predictor](https://github.com/chauhan-03/customer-churn-predictor)** | Telecom churn model with evaluation charts and a live prediction app | scikit-learn, Streamlit |
+| 📄 **[Doc Q&A Bot](https://github.com/chauhan-03/project1-doc-qa)** | Ask questions about any PDF with retrieval-augmented generation | LangChain, FAISS, HuggingFace, Groq |
+| 🏏 **[IPL Analysis](https://github.com/chauhan-03/project2-ipl-analysis)** | Interactive dashboard on 15+ seasons of IPL matches: teams, venues, toss decisions | pandas, Seaborn, Streamlit |
 
 ---
 
@@ -91,7 +114,7 @@
 - 🥇 **Spot Award Winner** — Vision AI Systems, Samsung
 - 🎓 **Samsung ML Certification** — Top 1%
 - 🤖 **Level-3 Certified** — Generative AI Tool Development
-- ⭐ **Consecutive 2 years** — Exceed Most annual rating
+- ⭐ **Consecutive 2 years** — Exceeds Most annual rating
 - 📚 **B.Tech CGPA 9.1/10** — Top 1%, MSIT Delhi
 
 ---
